@@ -15,6 +15,7 @@ cp -r nvim ~/.config/
 
 # Download and install Neovim
 echo "Downloading and installing Neovim..."
+mkdir -p ~/Downloads
 cd ~/Downloads
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage
 chmod u+x nvim.appimage
