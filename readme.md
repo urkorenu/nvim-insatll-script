@@ -1,6 +1,6 @@
 # Neovim Installation and Configuration Guide
 
-# Tested only on UBUNTU
+🚀Tested only on UBUNTU🚀
 
 ## Initial Setup
 
