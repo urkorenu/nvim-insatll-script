@@ -1,5 +1,7 @@
 # Neovim Installation and Configuration Guide
 
+# Tested only on UBUNTU
+
 ## Initial Setup
 
 1. Run the provided installation script.
@@ -22,7 +24,6 @@ If you encounter any errors on the next boot, follow these recovery steps:
 4. Run the following command to reinstall the Ubuntu desktop environment:
    ```bash
    sudo apt install ubuntu-desktop
-   reboot
    ```
 5. After the installation completes, reboot your system:
    ```bash
